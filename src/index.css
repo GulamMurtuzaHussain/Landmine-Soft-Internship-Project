@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+/* 1. Import directly from Google at the very top */
+@import "tailwindcss";
+
+
+/* 2. Force the font on the entire document */
+body::-webkit-scrollbar {
+  display: none;
+  font-family: 'Geist', sans-serif !important;
+}
+
+.Transition{
+  transition: ease-in-out 300ms;
+}
