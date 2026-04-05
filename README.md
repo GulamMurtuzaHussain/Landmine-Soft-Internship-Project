@@ -83,7 +83,7 @@ src/
       - create a 'components' folder in 'project-folder/src/' and place the the files in it.
       - replace App.jsx, index.css, main.jsx, index.html, package.json, tailwind.config.js, vite.config.js with the ones provided.
         
-- 6. You might get some errors regarding the imports or module not found, whose installation can be done very easily from the internet.
+- 6. Ensure all required dependencies listed in ```package.json``` are installed using ```npm install```.
      
 - 7. Run the project:
       ```
@@ -125,7 +125,9 @@ Gulam Murtuza Hussain
 ## Contact Author
 
 📧 mail: gulamamir872@gmail.com  
+
 💼 LinkedIn: [Gulam Murtuza Hussain](https://linkedin.com/in/gulam-murtuza-hussain-503745325)
+
 💻 GitHub: [GulamMurtuzaHussain](https://github.com/GulamMurtuzaHussain)
 
 Built with React, Tailwind CSS, and an unreasonable amount of late-night debugging.
