@@ -114,6 +114,7 @@ npm run build
 
 ![Homepage](./screenshots/homepage.png)
 ![Services](./screenshots/services.png)
+![projects](./screenshots/ss.png)
 
 ## Live Demo
 
