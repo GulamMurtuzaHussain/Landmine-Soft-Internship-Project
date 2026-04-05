@@ -10,7 +10,7 @@
 
   The goal of the project is to create a professional online presence with smooth animations, responsive design, and a clean user experience.
 
-## Features:
+## Features
 
  - Deep Black Theme with tasteful accents to make the page modern and techy.
  - Fully responsive to any screen from Mobiles to Desktops.
@@ -18,7 +18,7 @@
  - Hover effects for attention and highlight.
  - Clean and smooth UI/UX experience.
 
-## Pages Implemented:
+## Pages Implemented
 
  - Main Homepage/Welcome Page.
  - About page.
@@ -31,13 +31,13 @@
  - Privacy & Policy page.
  - Terms & Conditions page.
 
-## Tech Stack:
+## Tech Stack
 
  - React (Vite)
  - Tailwind CSS
  - React Router DOM
 
-## Folder Structure:
+## Folder Structure
 
 ```text
 project-folder/
@@ -59,7 +59,7 @@ project-folder/
  
 ```
 
-## Steps to run the project locally:
+## Steps to run the project locally
 
 - 1. Open VS Code and run:
       ```
@@ -92,11 +92,11 @@ project-folder/
         
 - 6. Ensure all required dependencies listed in ```package.json``` are installed using ```npm install```.
      
-- 7. Run the project:
+- 7. Run the project
       ```
        npm run dev
       ```
-- 8. To build:
+- 8. To build
       ```
        npm run build
       ```
