@@ -40,16 +40,23 @@
 ## Folder Structure:
 
 ```text
-src/
-├── components/ all the pages such as navbar.jsx, footer.jsx etc.
+project-folder/
 ├── public/
-│   ├── tech/icons
-│   ├── meeting/images
-│   └── images
-├── App.jsx
-├── main.jsx
-├── index.css
-└── etc. 
+|  ├── tech/icons
+|  ├── meeting/images
+|  └── images
+├──src/
+|  ├── components/ all the pages such as navbar.jsx, footer.jsx etc.
+|  ├── App.css
+|  ├── App.jsx
+|  ├── index.css
+|  └── main.jsx
+├── index.html
+├── package-lock.json
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
+ 
 ```
 
 ## Steps to run the project locally:
@@ -78,10 +85,10 @@ src/
        npm i react-router-dom
       ```
       
-- 5. Download all the files given in the 'main' branch.
-      - replace the entire 'public' folder with the one provided in the repository.
-      - create a 'components' folder in 'project-folder/src/' and place the the files in it.
-      - replace App.jsx, index.css, main.jsx, index.html, package.json, tailwind.config.js, vite.config.js with the ones provided.
+- 5. Download all the files given in the ```main``` branch.
+      - replace the entire ```public``` folder with the one provided in the repository.
+      - create a ```components``` folder in ```project-folder/src/``` and place the the files in it.
+      - replace ```App.jsx```, ```index.css```, ```main.jsx```, ```index.html```, ```package.json```, ```tailwind.config.js```, ```vite.config.js``` with the ones provided.
         
 - 6. Ensure all required dependencies listed in ```package.json``` are installed using ```npm install```.
      
