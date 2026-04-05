@@ -59,7 +59,7 @@ project-folder/
  
 ```
 
-## Steps to run the project locally
+## Steps To Run The Project Locally
 
 - 1. Open VS Code and run:
       ```
@@ -111,7 +111,7 @@ npm install
 npm run dev
 ```
 
-## Build for Production
+## Build For Production
 
 ```bash
 npm run build
