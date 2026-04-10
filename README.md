@@ -2,7 +2,7 @@
 - Complete Frontend Website For Landmine Soft Hyderabad. 
 - A modern and responsive IT/Software Agency website built using React(Vite) and Tailwind CSS.
  
-## Project Overview 
+## Project Overview  
 
   It is a fully responsive frontend project which was assigned as the Final Assignment for the Frontend Developer Internship. The project is developed with attention to detail, "will it attract clients ?" mindset, modern layout & design, and using latest frontend technologies.
 
