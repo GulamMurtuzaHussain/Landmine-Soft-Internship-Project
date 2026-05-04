@@ -4,7 +4,7 @@
  
 ## Project Overview   
 
-  It is a fully responsive frontend project which was assigned as the Final Assignment for the Frontend Developer Internship. The project is developed with attention to detail, "will it attract clients ?" mindset, modern layout & design, and using latest frontend technologies.
+  It is a fully responsive frontend project which was assigned as the Final Assignment for the Frontend Developer Internship. The project is developed with attention to detail, "will it attract clients ?" mindset, modern layout & design, and using latest frontend technologies. 
 
   The project is built to attract clients such as businesses looking for an agency for their projects, startups and individuals looking for a professional platform to showcase their products or services. Most importantly for the clients or businesses to enquire the company, explore its history, values, team members, company's work & contribution, and contact information.
 
