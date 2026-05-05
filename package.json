@@ -2,7 +2,7 @@
   "name": "landmine-soft-project",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "module", 
   "homepage": "https://gulammurtuzahussain.github.io/Landmine-Soft-Internship-Project",
   "scripts": {
     "dev": "vite",
